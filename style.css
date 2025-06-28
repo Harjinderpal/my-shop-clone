@@ -16,7 +16,7 @@
     width:100px;
 }
 .logo {
-    background-image: url(https://www.shutterstock.com/image-vector/chattogram-bangladesh-april-24-2023-260nw-2292992631.jpg);
+    background-image: url(logo.png);
     background-size: cover;
     height:50px;
     width:100%;
@@ -110,7 +110,7 @@ span {
     font-weight: 700;
 }
 .hero-section {
-    background-image: url(https://m.media-amazon.com/images/I/71h15GsHkvL._SX3000_.jpg);
+    background-image: url(hero.png);
     background-size: cover;
     height:350px;
     display:flex;
@@ -197,7 +197,7 @@ ul a {
     align-items: center;
 }
 .logo {
-    background-image: url(https://www.shutterstock.com/image-vector/chattogram-bangladesh-april-24-2023-260nw-2292992631.jpg);
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width:100px;
